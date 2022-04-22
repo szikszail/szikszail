@@ -7,3 +7,5 @@ Look around and find
 - 🔭 my Open Source **PyPi** packages in the repositories (some pinned) or on [PyPi](https://pypi.org/user/szikszail)
 - 👯 the Open Source [GherKing](https://github.com/gherking) packages
 - ⚡ the repositories of the [Idea Pool Community](https://epa.ms/ideapool) in the [Idea Pool](https://github.com/idea-pool) organization.
+
+![CI Actions](https://api.meercode.io/badge/szikszail/?type=ci-score&lastDay=14)
