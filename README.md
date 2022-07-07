@@ -7,3 +7,8 @@ Look around and find
 - 🔭 my Open Source **PyPi** packages in the repositories (some pinned) or on [PyPi](https://pypi.org/user/szikszail)
 - 👯 the Open Source [GherKing](https://github.com/gherking) packages
 - ⚡ the repositories of the [Idea Pool Community](https://epa.ms/ideapool) in the [Idea Pool](https://github.com/idea-pool) organization.
+
+![](https://raw.githubusercontent.com/szikszail/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/szikszail/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/szikszail/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/szikszail/github-stats/master/generated/languages.svg#gh-light-mode-only)
