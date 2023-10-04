@@ -12,3 +12,11 @@ Look around and find
 ![](https://raw.githubusercontent.com/szikszail/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/szikszail/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/szikszail/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+### 🙌 HACKTOBERFEST!!! 🙌
+
+I am excited to announce that some of my OSS projects are participating in this year's [Hacktoberfest](https://hacktoberfest.com/), a month-long celebration of open-source software contributions. I invite you to join me in making a difference in open-source development!
+
+I welcome contributions to any of my [repositories marked with the Hacktoberfest topic](https://github.com/search?q=topic%3Ahacktoberfest+user%3Aszikszail+&type=repositories). Feel free to bring your creativity and ideas to the table!
+
+Contribute, learn, and have fun this Hacktoberfest season with me. Together, we can make a real impact on the open-source community while reaping the rewards of your efforts.
